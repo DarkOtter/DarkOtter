@@ -1,3 +1,4 @@
+!["Dark Otter" written in purple](./banner.png)
 
 Hi, I’m @DarkOtter.
 
